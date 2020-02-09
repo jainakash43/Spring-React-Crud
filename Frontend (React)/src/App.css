@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+.form{
+    text-align:center;
+    margin-top:50px;
+}
+
+.Display{
+    text-align:center;
+    margin-top:20px;
+    align-content:center;
+}
+.table {
+    width:75%;
+   
+}
+    .table th {
+        height: 50px;
+       
+    }
+    .table tr {
+        height: 30px;
+        
+        font-family:'Arial Rounded MT';
+        font-size:20px;
+    }
+    .table td {
+        
+        
+        padding: 15px;
+    }
+    .table button{
+        border-radius:3px 4px;
+        font-size:20px;
+    }
+     .table button:hover {
+            
+            cursor:pointer;
+        }

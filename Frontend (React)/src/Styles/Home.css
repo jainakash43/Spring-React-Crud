@@ -1,0 +1,32 @@
+.Home {
+    padding-top: 10px;
+    padding-left:150px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 50px 50px 50px 50px;
+    border: groove;
+    height: 40%;
+    fill-opacity:inherit;
+   
+}
+.Home button{
+    margin-top:15px;
+    margin-left:130px;
+}
+.Home input{
+
+    margin-top:20px;
+}
+.Main {
+    
+    background-image: url('../Images/wallpaper.jpg');
+    background-repeat: repeat;
+    background-size: contain;
+    background-position: center;
+    height: 650px;
+
+    
+  
+}

@@ -1,0 +1,14 @@
+input[type=text], input[type=password] {
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0px;
+    display: block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.main {
+    align-content: center;
+    padding-left: 20%;
+    padding-bottom: 5px;
+}
